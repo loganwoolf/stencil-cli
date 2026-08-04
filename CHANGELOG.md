@@ -1,3 +1,18 @@
+## [9.0.3](https://github.com/bigcommerce/stencil-cli/compare/9.0.2...9.0.3) (2026-07-07)
+
+
+### Bug Fixes
+
+* TRAC-896 - avoid archiveManager readEntry stall on Windows/Node 24 CI ([#1390](https://github.com/bigcommerce/stencil-cli/issues/1390)) ([a427260](https://github.com/bigcommerce/stencil-cli/commit/a42726005da1859f2d0fd7aa73ab5b1f83bcbc99))
+
+## [9.0.2](https://github.com/bigcommerce/stencil-cli/compare/9.0.1...9.0.2) (2026-06-17)
+
+
+### Bug Fixes
+
+* TRAC-513 - clear stale variation override on stencil pull ([4a5beeb](https://github.com/bigcommerce/stencil-cli/commit/4a5beebdf8e4e3a7f3086c22caa32195a9815631))
+* TRAC-513 - clear stale variation override on stencil pull ([#1374](https://github.com/bigcommerce/stencil-cli/issues/1374)) ([05cc17d](https://github.com/bigcommerce/stencil-cli/commit/05cc17d389dd2814642f9b0deb34a76814b7fda6))
+
 # [9.0.0](https://github.com/bigcommerce/stencil-cli/compare/8.10.5...9.0.0) (2025-12-13)
 
 
